@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Jonas Ryberg - CV"
+date: 2016-01-19
+---
+
 **Anställningar** 
 
 - Talentum som reporter på Ny Teknik och Digital Teknik (2015 - )
