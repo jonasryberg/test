@@ -9,7 +9,7 @@ Elektroniktidningen som nyhetsredaktör och reporter (2000-2002)
 Ny Teknik som vikarierande it-reporter och reporter på industridelen (2000) 
 Elfsborgs läns allehanda som vikarierande reporter (1999 - 2000) 
 
-**Fortbildning **
+**Fortbildning**
 Tre dagar: sex verktyg - kurs i redaktionell ledning hos Mediamentorerna (hösten 2008) 
 
 **Utbildning** 
