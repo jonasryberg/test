@@ -1,7 +1,5 @@
 ---
-layout: post
-title: "Jonas Ryberg - CV"
-date: 2016-01-19
+layout: default
 ---
 
 **Anställningar** 
